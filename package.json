@@ -1,0 +1,29 @@
+{
+  "name": "calculator-package",
+  "version": "1.0.0",
+  "description": "A comprehensive calculator package including arithmetic operations, area calculations, and advanced math functions.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "math",
+    "arithmetic",
+    "geometry",
+    "bmi",
+    "finance",
+    "statistics"
+  ],
+  "author": "Pritiranjan Patra",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
