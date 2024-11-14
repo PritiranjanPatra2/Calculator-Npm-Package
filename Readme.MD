@@ -18,7 +18,7 @@ A comprehensive calculator package including arithmetic operations, area calcula
 ## Installation
 
 ```bash
-npm install calculator-package
+npm install calculatorzon
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ import {
   distance,
   factorial,
   quadraticSolver
-} from 'calculator-package';
+} from 'calculatorzon';
 ```
 
 ### Examples

@@ -1,5 +1,5 @@
 {
-  "name": "calculator-package",
+  "name": "calculatorzon",
   "version": "1.0.0",
   "description": "A comprehensive calculator package including arithmetic operations, area calculations, and advanced math functions.",
   "type": "module",
